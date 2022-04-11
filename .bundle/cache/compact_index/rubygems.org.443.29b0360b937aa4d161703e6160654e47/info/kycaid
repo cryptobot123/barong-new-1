@@ -1,0 +1,5 @@
+---
+0.1.0 faraday:>= 0,json:>= 0|checksum:f46ef90cf0f500e47b2fc273293cb4b0f47d66c358b394ce65524453b11b4a99,ruby:>= 2.3.0
+1.0.0 faraday:>= 0,json:>= 0|checksum:e4c6f66e9345f33f80f59b29ea59dfae156b2da72405dff40820eeecdefde78b,ruby:>= 2.3.0
+1.0.1 faraday:>= 0,json:>= 0|checksum:cf0343c4d1a27dd7fc81eed49182a929ee7cee07483ab1d9634ca24f7e956b52,ruby:>= 2.3.0
+1.0.2 faraday:>= 0,json:>= 0|checksum:62cd7632a1dd2bf1fbce6c341fe7b4fabfc702e77da971c5512e27f52ac4ac1f,ruby:>= 2.3.0
